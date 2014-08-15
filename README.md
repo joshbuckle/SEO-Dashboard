@@ -1,7 +1,10 @@
 SEO-Dashboard
 =============
 
-This SEO Dashboard make its super easy to monitor your website traffic, social media popularity and several SEO factors.
+This SEO Dashboard make its super easy for you to monitor your websites traffic, social media popularity and several SEO factors.
+
+Insatllation
+=============
 
 1.	Download the required files from GitHub.
 2.	Unzip the folder and upload the dashboard folder along with its contents to the root of your website via FTP.
