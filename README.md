@@ -1,4 +1,4 @@
-SEO-Dashboard
+SEO Dashboard
 =============
 
 This SEO Dashboard make its super easy for you to monitor your websites traffic, social media popularity and several SEO factors.
